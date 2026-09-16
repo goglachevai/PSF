@@ -1,0 +1,5 @@
+.vscode/
+build-wsl/
+tests/
+x64/
+vc140.pdb
